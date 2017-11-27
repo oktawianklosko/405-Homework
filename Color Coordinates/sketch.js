@@ -14,7 +14,7 @@ function draw() {
 
 
   if (mouseX,mouseY) {
-      r = (255);
+      r = (255,140,100);
       g = (255);
       b = (255);
 
